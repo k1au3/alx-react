@@ -1,1 +1,1 @@
-## 0x07. React Redux action creator+normalizr
+# react_redux_action_creator_normalizr
